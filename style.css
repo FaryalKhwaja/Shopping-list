@@ -1,0 +1,22 @@
+.shoppingList {
+  padding: 20px;
+  color: #333;
+  text-align: center;
+}
+
+.button {
+    padding: 6px;
+    margin: 2px;
+    color: white;
+    background-color: #4f46e5;
+    border: 1px solid #6366f1;
+    border-radius: 8px;
+}
+
+.list {
+  padding: 10px;
+  border: 2px solid #ccc;
+  border-radius: 6px;
+  font-size: 16px;
+  outline: none;
+}
